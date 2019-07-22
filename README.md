@@ -15,5 +15,5 @@ npm install
 npm start
 ```
 
-#I ran the application in my browser using the address http://localhost:3000
-#Simply opening the index.html file will give you a blank page.
+# I ran the application in my browser using the address http://localhost:3000
+# Simply opening the index.html file will give you a blank page.
